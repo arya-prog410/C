@@ -1,0 +1,30 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+a.out
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Debug information
+*.pdb
+*.ilk
+
+# Build directories
+build/
+bin/
+obj/
+
+# Editor/IDE specific files
+.vscode/
+.cproject
+.project
+.settings/
+*~
+*.bak
